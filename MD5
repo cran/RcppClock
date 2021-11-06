@@ -1,4 +1,4 @@
-644fff5c59f5e7a18f5c60b92c39ad67 *DESCRIPTION
+854eb9f439ab421ac6d1da725c6b4881 *DESCRIPTION
 9a632912c1452954069d7648fe8f1c39 *NAMESPACE
 d5a5e96186cab7a81d5bf7c8ad758588 *R/RcppClock.R
 30a2b1048e1c73afbde31eaa4eef531b *R/RcppExports.R
@@ -9,6 +9,6 @@ d5a5e96186cab7a81d5bf7c8ad758588 *R/RcppClock.R
 fd80e4d66c641b7560342e1d7ae6134d *src/Makevars
 fd80e4d66c641b7560342e1d7ae6134d *src/Makevars.win
 47d0ec55513ec4bb54cc8d4e19eea986 *src/RcppExports.cpp
-3c8e79363b03b0b2c257cfc679a73c47 *src/fibonacci.cpp
+f7aadf3d790b3abc3a0c248e54ba59dc *src/fibonacci.cpp
 84d6ee88ba6d3504c388b881064c7d27 *tests/testthat.R
 0c26a43e645d34a35ce72acb06672d05 *tests/testthat/test_RcppClock.R
